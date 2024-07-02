@@ -1,0 +1,12 @@
+# Virtual environment files
+.venv/
+.env
+
+# Pipfile lock
+Pipfile.lock
+
+# Python bytecode
+*.pyc
+*.pyo
+*.pyd
+__pycache__/

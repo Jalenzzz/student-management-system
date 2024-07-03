@@ -1,0 +1,7 @@
+# Ignore these files
+.env
+Pipfile.lock
+__pycache__/
+
+# Ignore these directories
+migrations/
